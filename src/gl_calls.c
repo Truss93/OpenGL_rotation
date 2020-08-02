@@ -7,8 +7,8 @@
 #include "obj.h"
 #include "bitmap.h"
 
-#define MODEL_PATH "../models/teapot"
-#define TEX_PATH "../models/logo.bmp"
+#define MODEL_PATH "models/teapot"
+#define TEX_PATH "models/logo.bmp"
 #define Y_ANGULAR_VELOCITY 2
 
 
