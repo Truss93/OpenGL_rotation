@@ -9,7 +9,7 @@ else
 	LDFLAGS=-lglfw -ldl -lm
 endif
 
-TARGET=objview_phong
+TARGET=objview_model
 OBJECTS=$(patsubst %.c, %.o, $(wildcard src/*.c))
 
 all: $(TARGET)
